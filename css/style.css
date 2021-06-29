@@ -1,4 +1,6 @@
-
+*{
+margin:0;
+}
 .cv{
    text-align: center;
    background-color: rgb(197, 220, 238);
